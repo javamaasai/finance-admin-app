@@ -1,4 +1,4 @@
-![finance app](https://github.com/javamaasai/finance-admin-app/blob/master/fasttransfer-autofinance-logo-01.png?raw=true)
+![finance app](https://github.com/javamaasai/finance-admin-app/blob/master/screenshots/fasttransfer-autofinance-logo-01.png?raw=true)
 
 # Finance Admin App
 
@@ -11,14 +11,14 @@ Fast transfer auto finance is react web/mobile application that provides adminis
 ### screenshots/guides
 ## login page
 
-![login page](https://github.com/javamaasai/finance-admin-app/blob/master/fasttransfer-login.png?raw=true)
+![login page](https://github.com/javamaasai/finance-admin-app/blob/master/screenshots/fasttransfer-login.png?raw=true)
 
-![login credentials](https://github.com/javamaasai/finance-admin-app/blob/master/fasttransfer-login-user.png?raw=true)
+![login credentials](https://github.com/javamaasai/finance-admin-app/blob/master/screenshots/fasttransfer-login-user.png?raw=true)
 
 Login credentials Username: user, Password: user 
 
 ## Dashboard
-![dashboard page](https://github.com/javamaasai/finance-admin-app/blob/master/fasttransfer-dashboard.png?raw=true)
+![dashboard page](https://github.com/javamaasai/finance-admin-app/blob/master/screenshots/fasttransfer-dashboard.png?raw=true)
 
 Sample dashboard view
 
