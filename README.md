@@ -27,8 +27,8 @@ Sample dashboard view
 * [Typescript] - is JavaScript for application-scale development.” TypeScript is a strongly typed, object oriented, compiled language.
 * [JSON] - is a lightweight format for storing and transporting data.
 * [React] - is an open-source, front end, JavaScript library for building user interfaces or UI components.
-* [Node.js] - is a new package manager for node.js.
-* [yarn] - plugins to gain access to host operating systems features such as Camera, GPS, Flashlight, etc.
+* [Node.js] - is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser
+* [yarn] - is a new package manager for node.js.
 * [html/css] - (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages.
 
 ### Installation
